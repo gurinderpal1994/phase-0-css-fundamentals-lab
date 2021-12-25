@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+
+nav {
+  text-align: center;
+}
+.b1 {
+  text-align: center;
+  padding-right: 10px;
+  padding-left: 10px;
+  background: grey;
+}
+.box-1 {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+  padding: 5px; 
+  text-align: center; 
+  }
+figcaption{
+  text-align: center;
+}
+.h1{
+  text-align: center;
+}
+.centreText {
+  margin: auto;
+  line-height: 10pt;
+  width: 800px;
+  text-align: center;
+}
+.footer{
+  float:left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
